@@ -1,1 +1,7 @@
-# Bank-Customer-Churn-Analysis
+**Project: Bank Customer Churn Risk Analysis (Power BI/DAX)**
+
+A full-cycle Data Analytics project focused on generating actionable business intelligence for retention strategy in the financial sector. The project utilized advanced Power BI features and rigorous DAX modeling to diagnose the multi-faceted causes of customer attrition.
+**Methodology & Technical Skills Demonstrated**:Advanced DAX Modeling: Created complex, dynamic measures (e.g., Segment Churn Rate) to correctly calculate true proportional risk across groups (Geography, Age, Product Count), moving beyond misleading raw counts.
+**Financial KPI Developmen**t: Engineered robust financial measures (Total Balance Lost, Average Balance Lost, Average Balance Retained) to translate customer behavior directly into P&L impact.Segmentation Expertise: Utilized DAX Calculated Columns to create effective bins for continuous variables (e.g., Age Groups, Credit Score Groups) to enable strategic analysis.
+**Specialized Visualization**: Successfully deployed and interpreted a Box Plot visual to statistically compare the distribution of customer account Balance between churned and retained populations, definitively proving the high-value nature of the churn problem6.Dashboard Architecture: Structured the report with a strict navigational hierarchy (Executive Summary $\rightarrow$ Demographic Risk $\rightarrow$ Behavioral/Financial Deep Dive) and implemented Page Navigator controls for high maintainability and superior user experience.
+**Tools & Skills**: Power BI Desktop, DAX, Data Modeling, Box Plot Visualization, Financial Analysis, Data Storytelling.
